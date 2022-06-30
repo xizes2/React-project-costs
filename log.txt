@@ -1,0 +1,2 @@
+25/06/22
+- VS Code was not suggesting the html tags for autocompletion. I had to add a key(javascript)-value(javascriptreact) pair on the option Emmet: Include Languages, on Settings

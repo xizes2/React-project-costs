@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "name": "test4-edited",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 845,
+      "services": [
+        {
+          "name": "serv test",
+          "cost": "500",
+          "description": "testtesttest",
+          "id": "d2cd0127-1584-41dc-be4a-14e2fed30ae4"
+        },
+        {
+          "name": "serv test2",
+          "cost": "245",
+          "description": "test2test2test2",
+          "id": "c92a02cd-6a99-4a1a-8ea9-b91c4779ef46"
+        },
+        {
+          "name": "aaaa",
+          "cost": "100",
+          "description": "llll",
+          "id": "4d2b37ad-e03b-42f2-b788-f92cf567f315"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "test5-edited",
+      "budget": "6000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 2100,
+      "services": [
+        {
+          "name": "test 1",
+          "cost": "100",
+          "description": "descr",
+          "id": "af7f0d76-6472-4b88-82f5-9cc628ea84b6"
+        },
+        {
+          "name": "test 4",
+          "cost": "2000",
+          "description": "desscrip",
+          "id": "ea61b1ac-1676-4610-af4c-8f8b34a1b9ea"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
